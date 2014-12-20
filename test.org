@@ -1,1 +1,1 @@
-Dit is een org bestand om gebruit van git te testen
+Dit is een org bestand om gebruik van git te testen
